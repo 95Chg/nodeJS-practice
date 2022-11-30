@@ -1,0 +1,6 @@
+.item-title {
+  cursor: pointer;
+}
+.item-title:hover {
+  text-decoration: underline;
+}
